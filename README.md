@@ -1,2 +1,2 @@
 # Spring-Boot-CRUD-SAMPLE
-Spring boot crud apis
+- Sample Test for CRUD APIS
